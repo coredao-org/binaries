@@ -2,7 +2,7 @@
 
 
 - [Linux Version](./testnet-v0.0.2/testnet_linux.tar.gz)
-- [Mac OS Version](./testnet-v0.0.2/testnet_linux.tar.gz)
+- [Mac OS Version](./testnet-v0.0.2/testnet_mac.tar.gz)
 
 The zip files contain
 
